@@ -1,9 +1,4 @@
 # script to analyze bird counts
 
- Read data file
-
-
- Run analysis 
-
- Save table
- 
+# Read file
+# Save table 
